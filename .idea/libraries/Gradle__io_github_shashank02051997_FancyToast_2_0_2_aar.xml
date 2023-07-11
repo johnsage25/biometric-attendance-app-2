@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.shashank02051997:FancyToast:2.0.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/7d14b1b54e1b08817f12e6b7f45d9389/transformed/jetified-FancyToast-2.0.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/7d14b1b54e1b08817f12e6b7f45d9389/transformed/jetified-FancyToast-2.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/7d14b1b54e1b08817f12e6b7f45d9389/transformed/jetified-FancyToast-2.0.2/res" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/7d14b1b54e1b08817f12e6b7f45d9389/transformed/jetified-FancyToast-2.0.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/io.github.shashank02051997/FancyToast/2.0.2/3bedaf97128bbbe003bc704d23185551996f8432/FancyToast-2.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/io.github.shashank02051997/FancyToast/2.0.2/b3a0b942fa5f896f903fc82cb5c6dc973e9c85c0/FancyToast-2.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.euzee:serviceManager:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/cbe0f78ef3f91027a888521e96ed3aa6/transformed/jetified-serviceManager-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/cbe0f78ef3f91027a888521e96ed3aa6/transformed/jetified-serviceManager-1.0.3/res" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/cbe0f78ef3f91027a888521e96ed3aa6/transformed/jetified-serviceManager-1.0.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e85b4e4868fd58ff82db91e3cf972bba/transformed/jetified-serviceManager-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e85b4e4868fd58ff82db91e3cf972bba/transformed/jetified-serviceManager-1.0.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e85b4e4868fd58ff82db91e3cf972bba/transformed/jetified-serviceManager-1.0.3/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/c3a663350ac3c296898d3b5a98bb7e3f/transformed/jetified-serviceManager-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/c3a663350ac3c296898d3b5a98bb7e3f/transformed/jetified-serviceManager-1.0.3/res" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/c3a663350ac3c296898d3b5a98bb7e3f/transformed/jetified-serviceManager-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.euzee/serviceManager/1.0.3/db1ccf7d64c965d0f8a00bf17a0b742ace9029cb/serviceManager-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.euzee/serviceManager/1.0.3/b5a0c94d45ec07671461ee9be6400f1e7643a686/serviceManager-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

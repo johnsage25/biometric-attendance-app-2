@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: cafe.adriel.voyager:voyager-bottom-sheet-navigator-android-debug:1.0.0-beta16@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/90d9882bc67ea952f6ed4d8d7b2580f9/transformed/jetified-voyager-bottom-sheet-navigator-debug/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/90d9882bc67ea952f6ed4d8d7b2580f9/transformed/jetified-voyager-bottom-sheet-navigator-debug/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/cafe.adriel.voyager/voyager-bottom-sheet-navigator-android-debug/1.0.0-beta16/ed8f858de867e8d93a3a18cc5916bb9b1df6ceb2/voyager-bottom-sheet-navigator-android-debug-1.0.0-beta16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/cafe.adriel.voyager/voyager-bottom-sheet-navigator-android-debug/1.0.0-beta16/dd98e74764e89731baebd4f50349b1d9ea415a50/voyager-bottom-sheet-navigator-android-debug-1.0.0-beta16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

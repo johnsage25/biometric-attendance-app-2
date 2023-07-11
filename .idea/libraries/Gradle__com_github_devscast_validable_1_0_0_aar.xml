@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.devscast:validable:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/1793c9014f053836229742ad708e14c8/transformed/jetified-validable-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/1793c9014f053836229742ad708e14c8/transformed/jetified-validable-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.devscast/validable/1.0.0/ce2213c44c6d15357b88b28df8ecd8e18b04a21f/validable-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

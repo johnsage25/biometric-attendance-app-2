@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.aakira:napier-android-debug:2.5.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/aa4b53db16d36154da41410fd4b353f4/transformed/jetified-napier-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/aa4b53db16d36154da41410fd4b353f4/transformed/jetified-napier-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/io.github.aakira/napier-android-debug/2.5.0/ddd2574790f1358284e413d3e399d3f59ff9ccfc/napier-android-debug-2.5.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/io.github.aakira/napier-android-debug/2.5.0/d9a32d45acc89dfb4eb69c2fb762ac9bfc32466e/napier-android-debug-2.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

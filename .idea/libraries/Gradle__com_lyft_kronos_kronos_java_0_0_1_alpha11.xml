@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lyft.kronos:kronos-java:0.0.1-alpha11">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.lyft.kronos/kronos-java/0.0.1-alpha11/606ea0cce64aaa3aaa1f1ec4e679ab8459e9fb4a/kronos-java-0.0.1-alpha11.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.lyft.kronos/kronos-java/0.0.1-alpha11/8ca591314af22613041ebc51c726c1ed60fde298/kronos-java-0.0.1-alpha11-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.lyft.kronos/kronos-java/0.0.1-alpha11/8ce1599feb0fb77fe625829d64a94cd27f989d19/kronos-java-0.0.1-alpha11-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

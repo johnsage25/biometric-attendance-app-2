@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: cafe.adriel.voyager:voyager-rxjava-android-debug:1.0.0-beta16@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/6722bda6419e1649c87886154d836546/transformed/jetified-voyager-rxjava-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/6722bda6419e1649c87886154d836546/transformed/jetified-voyager-rxjava-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/cafe.adriel.voyager/voyager-rxjava-android-debug/1.0.0-beta16/4f7be4673662e2d1d7f2185cdd1100d3c175b0a5/voyager-rxjava-android-debug-1.0.0-beta16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/cafe.adriel.voyager/voyager-rxjava-android-debug/1.0.0-beta16/235e65c0352a070e8f5d05c3e89a59ed1cc9ca23/voyager-rxjava-android-debug-1.0.0-beta16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

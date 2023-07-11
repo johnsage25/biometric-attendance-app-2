@@ -1,0 +1,30 @@
+package com.fgtit.data
+
+data class Staff(
+    val birthdate: Birthdate,
+    val by_staff: ByStaff,
+    val createdAt: String,
+    val email: String,
+    val enrolled_date: EnrolledDate,
+    val fac_a_department: String,
+    val fullname: String,
+    val gender: String,
+    val left_fingerprint: String,
+    val left_inpsize: String,
+    val mobile: String,
+    val nfc_card_code: String,
+    val objectId: String,
+    val password: String,
+    val right_fingerprint: String,
+    val right_inpsize: String,
+    val scheduler: String,
+    val staff_category: String,
+    val staff_image: StaffImage,
+    val status: String,
+    val unique_id_no: String,
+    val updatedAt: String,
+    val username: String,
+    val uuid: String,
+    val work_hour: String,
+    val work_position: String
+)

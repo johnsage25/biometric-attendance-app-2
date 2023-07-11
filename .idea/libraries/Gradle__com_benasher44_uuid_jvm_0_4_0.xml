@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.benasher44:uuid-jvm:0.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.benasher44/uuid-jvm/0.4.0/e12f3e43877a01e620290e8895acbd0f445fa191/uuid-jvm-0.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.benasher44/uuid-jvm/0.4.0/1df038faa43671cea7b9a7f3d5329a43732cad6a/uuid-jvm-0.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.benasher44/uuid-jvm/0.4.0/dd89b2c04e19ab4c2f9aae56eefb26f519b7a6c9/uuid-jvm-0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

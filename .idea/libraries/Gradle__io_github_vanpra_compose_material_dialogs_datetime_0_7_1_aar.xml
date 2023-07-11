@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.vanpra.compose-material-dialogs:datetime:0.7.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/b28063080a82933260bec42f8a2824fe/transformed/jetified-datetime-0.7.1-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/b28063080a82933260bec42f8a2824fe/transformed/jetified-datetime-0.7.1-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

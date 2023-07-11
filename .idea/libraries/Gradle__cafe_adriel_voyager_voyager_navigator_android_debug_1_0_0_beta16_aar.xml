@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: cafe.adriel.voyager:voyager-navigator-android-debug:1.0.0-beta16@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/658f48c9aef211de2f4c12ff05ac123e/transformed/jetified-voyager-navigator-debug/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/658f48c9aef211de2f4c12ff05ac123e/transformed/jetified-voyager-navigator-debug/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/cafe.adriel.voyager/voyager-navigator-android-debug/1.0.0-beta16/cd9a7e898929bf389f76d625e907f51d4606c578/voyager-navigator-android-debug-1.0.0-beta16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/cafe.adriel.voyager/voyager-navigator-android-debug/1.0.0-beta16/a12e2ca395460091e8f0cbf94d1c59f0e726f774/voyager-navigator-android-debug-1.0.0-beta16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

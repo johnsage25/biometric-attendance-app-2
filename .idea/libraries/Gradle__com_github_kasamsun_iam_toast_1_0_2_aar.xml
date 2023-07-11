@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kasamsun:iam-toast:1.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/29c4be9735f0ff69722eb7462581a5d8/transformed/jetified-iam-toast-1.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/29c4be9735f0ff69722eb7462581a5d8/transformed/jetified-iam-toast-1.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/29c4be9735f0ff69722eb7462581a5d8/transformed/jetified-iam-toast-1.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.kasamsun/iam-toast/1.0.2/b2ec775ea42b1a6669cf89f385154d88fcec4030/iam-toast-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

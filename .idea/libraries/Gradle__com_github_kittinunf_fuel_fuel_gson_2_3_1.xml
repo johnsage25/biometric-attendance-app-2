@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kittinunf.fuel:fuel-gson:2.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-gson/2.3.1/96753e785fe8bf92d5505ae66c9401db95d3e003/fuel-gson-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-gson/2.3.1/12547a0c0eabc02d674b0c15f973ecdd2b705546/fuel-gson-2.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-gson/2.3.1/a6d36d7ebcbc06ebad68b9a8b62900c8f229efca/fuel-gson-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

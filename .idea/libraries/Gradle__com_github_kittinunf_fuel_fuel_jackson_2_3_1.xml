@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kittinunf.fuel:fuel-jackson:2.3.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-jackson/2.3.1/7e756ec03e2d15334ea9be205509ff28f3d86cf5/fuel-jackson-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-jackson/2.3.1/cdd886e1feea854c8343d3c6209e99d518e60424/fuel-jackson-2.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-jackson/2.3.1/8a0ec29612e12abd9404f870a63a7816df92d395/fuel-jackson-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

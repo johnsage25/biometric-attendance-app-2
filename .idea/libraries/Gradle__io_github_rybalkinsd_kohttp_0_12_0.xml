@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.github.rybalkinsd:kohttp:0.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/io.github.rybalkinsd/kohttp/0.12.0/75a6c35c569a27e9311d8737ed3a70335d29a5fa/kohttp-0.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/io.github.rybalkinsd/kohttp/0.12.0/53a785f0922fc84817720e39b0c51c02e538dbc3/kohttp-0.12.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/io.github.rybalkinsd/kohttp/0.12.0/9ea4ded43d45459d028bcf936497ceeb652cba67/kohttp-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

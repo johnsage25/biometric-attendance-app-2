@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LoginActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_weight="1"
+        android:overScrollMode="never"
+        android:fillViewport="true"
+        android:layout_height="match_parent">
+
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/_20sdp"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="@dimen/_125sdp"
+                    android:src="@drawable/ic_image_vect"/>
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:paddingHorizontal="30dp"
+                >
+                <TextView
+                    android:id="@+id/loginError"
+                    android:background="@color/red"
+                    android:padding="@dimen/_8sdp"
+                    android:textColor="@color/white"
+                    android:visibility="gone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Invalid login detail, please check and try again." />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:layout_marginVertical="@dimen/_10sdp"
+                    android:text="@string/sign_in"
+                    android:textColor="@color/black"
+                    android:textSize="@dimen/_18sdp" />
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/username"
+                    app:startIconDrawable="@drawable/ic_person_user"
+                    app:startIconContentDescription="@string/username"
+                    android:layout_width="match_parent"
+                    app:errorTextAppearance="@style/CustomErrorTextAppearance"
+                    android:layout_height="wrap_content"
+                    app:hintTextAppearance="@style/CustomTextAppearance"
+                    android:hint="@string/username">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:textSize="@dimen/_10sdp"
+                        android:layout_height="@dimen/_30sdp" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <com.google.android.material.textfield.TextInputLayout
+                    android:id="@+id/password"
+                    android:layout_marginTop="@dimen/_5sdp"
+                    app:endIconMode="password_toggle"
+                    android:layout_width="match_parent"
+                    app:errorTextAppearance="@style/CustomErrorTextAppearance"
+                    app:startIconDrawable="@drawable/ic_lock_user"
+                    app:startIconContentDescription="@string/username"
+                    android:layout_height="wrap_content"
+                    app:hintTextAppearance="@style/CustomTextAppearance"
+                    app:expandedHintEnabled="true"
+                    android:hint="@string/password">
+
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="@dimen/_30sdp"
+                        android:textSize="@dimen/_10sdp"
+                        android:inputType="textPassword" />
+
+                </com.google.android.material.textfield.TextInputLayout>
+
+
+                <Button
+                    android:id="@+id/loginButton"
+                    android:layout_marginTop="50dp"
+                    android:layout_width="match_parent"
+                    android:background="@color/blue_200"
+                    android:textColor="@color/white"
+                    android:foreground="?android:selectableItemBackground"
+                    android:layout_height="@dimen/_20sdp"
+                    android:text="Login"
+                    android:textSize="@dimen/_9sdp"
+                    />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

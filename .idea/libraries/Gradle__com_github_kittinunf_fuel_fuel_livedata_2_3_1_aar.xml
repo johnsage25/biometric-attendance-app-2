@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kittinunf.fuel:fuel-livedata:2.3.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/2f895829664492d14ac043534e721174/transformed/jetified-fuel-livedata-2.3.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/2f895829664492d14ac043534e721174/transformed/jetified-fuel-livedata-2.3.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/2f895829664492d14ac043534e721174/transformed/jetified-fuel-livedata-2.3.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-livedata/2.3.1/fd1502b29493e109f84c0b712f187afd6ea0a6bf/fuel-livedata-2.3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/com.github.kittinunf.fuel/fuel-livedata/2.3.1/60a1cea5c5c1dacd842b81fa1a7d7c5e4f8dc9e7/fuel-livedata-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

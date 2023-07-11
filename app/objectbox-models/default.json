@@ -1,0 +1,293 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:3315305549484685420",
+      "lastPropertyId": "13:7465991913876311027",
+      "name": "Attendance",
+      "properties": [
+        {
+          "id": "1:2093916823665923685",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:6864346599320977918",
+          "name": "staff_objectId",
+          "type": 9
+        },
+        {
+          "id": "3:2440175007399169780",
+          "name": "enrol_id",
+          "type": 6
+        },
+        {
+          "id": "4:359755549668509609",
+          "name": "timestamp_date",
+          "type": 9
+        },
+        {
+          "id": "5:9034583755551535529",
+          "name": "capture_type",
+          "type": 9
+        },
+        {
+          "id": "6:2588414338213596141",
+          "name": "staff_uuid",
+          "type": 9
+        },
+        {
+          "id": "7:8170561559072236562",
+          "name": "location",
+          "type": 9
+        },
+        {
+          "id": "8:3000718126622303839",
+          "name": "timestamp",
+          "type": 9
+        },
+        {
+          "id": "9:1292262843590511979",
+          "name": "time",
+          "type": 9
+        },
+        {
+          "id": "10:1514843435258330796",
+          "name": "attns_type",
+          "type": 9
+        },
+        {
+          "id": "11:6795726566182235513",
+          "name": "queue",
+          "type": 1
+        },
+        {
+          "id": "12:4276626995348456451",
+          "name": "device_admin",
+          "type": 9
+        },
+        {
+          "id": "13:7465991913876311027",
+          "name": "uid",
+          "indexId": "1:8091826361632837488",
+          "type": 9,
+          "flags": 34848
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "2:4778494997709890291",
+      "lastPropertyId": "23:167130552353606669",
+      "name": "EnrolmentModel",
+      "properties": [
+        {
+          "id": "1:7570373942740686845",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:374850761801150172",
+          "name": "uuid",
+          "indexId": "2:8285550629797842207",
+          "type": 9,
+          "flags": 34848
+        },
+        {
+          "id": "3:8040533594062557239",
+          "name": "fullname",
+          "type": 9
+        },
+        {
+          "id": "4:3118337096240473686",
+          "name": "birthdate",
+          "type": 10
+        },
+        {
+          "id": "5:5990904593225132776",
+          "name": "fac_a_department",
+          "type": 9
+        },
+        {
+          "id": "6:7964785282727122116",
+          "name": "work_position",
+          "type": 9
+        },
+        {
+          "id": "7:2737145745305007595",
+          "name": "staff_category",
+          "type": 9
+        },
+        {
+          "id": "8:162909431775813212",
+          "name": "gender",
+          "type": 9
+        },
+        {
+          "id": "9:6381351846392380520",
+          "name": "unique_id_no",
+          "type": 9
+        },
+        {
+          "id": "10:454962774982032616",
+          "name": "username",
+          "type": 9
+        },
+        {
+          "id": "11:4125621490570007852",
+          "name": "password",
+          "type": 9
+        },
+        {
+          "id": "12:5263943084192345303",
+          "name": "email",
+          "type": 9
+        },
+        {
+          "id": "13:5011439593836893908",
+          "name": "mobile",
+          "type": 9
+        },
+        {
+          "id": "14:363813112980563400",
+          "name": "left_fingerprint",
+          "type": 9
+        },
+        {
+          "id": "15:3581105615087666765",
+          "name": "left_inpsize",
+          "type": 5
+        },
+        {
+          "id": "16:8540557302221900569",
+          "name": "right_inpsize",
+          "type": 5
+        },
+        {
+          "id": "17:6376685550991333068",
+          "name": "right_fingerprint",
+          "type": 9
+        },
+        {
+          "id": "18:5554317132777279547",
+          "name": "nfc_card_code",
+          "type": 9
+        },
+        {
+          "id": "19:4958013171662886039",
+          "name": "enrolled_date",
+          "type": 10
+        },
+        {
+          "id": "20:706460850891108105",
+          "name": "image",
+          "type": 9
+        },
+        {
+          "id": "21:1018407363666711551",
+          "name": "by_staff",
+          "type": 9
+        },
+        {
+          "id": "22:336127549500304259",
+          "name": "objectId",
+          "type": 9
+        },
+        {
+          "id": "23:167130552353606669",
+          "name": "work_hour",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "3:3165490939145118960",
+      "lastPropertyId": "2:940737036114100737",
+      "name": "User",
+      "properties": [
+        {
+          "id": "1:3779754802022613151",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "2:940737036114100737",
+          "name": "name",
+          "type": 9
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "4:6035777239396140773",
+      "lastPropertyId": "10:4501161179817203746",
+      "name": "StaffDetailData",
+      "properties": [
+        {
+          "id": "1:723176545401420853",
+          "name": "id",
+          "type": 6,
+          "flags": 1
+        },
+        {
+          "id": "3:609778595054394738",
+          "name": "department",
+          "type": 9
+        },
+        {
+          "id": "4:223669255345805157",
+          "name": "staffAvatar",
+          "type": 9
+        },
+        {
+          "id": "6:5298613062353338201",
+          "name": "fullname",
+          "type": 9
+        },
+        {
+          "id": "7:374144098465734555",
+          "name": "email",
+          "type": 9
+        },
+        {
+          "id": "8:1679788278383938392",
+          "name": "phone",
+          "type": 9
+        },
+        {
+          "id": "9:1174494173672705916",
+          "name": "username",
+          "indexId": "3:9159975892332124784",
+          "type": 9,
+          "flags": 34848
+        },
+        {
+          "id": "10:4501161179817203746",
+          "name": "staffid",
+          "type": 9
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "lastEntityId": "4:6035777239396140773",
+  "lastIndexId": "3:9159975892332124784",
+  "lastRelationId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 5,
+  "modelVersionParserMinimum": 5,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    3052385070715895524,
+    3136453726859996764
+  ],
+  "retiredRelationUids": [],
+  "version": 1
+}

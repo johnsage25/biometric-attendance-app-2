@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="logo_width">180dp</dimen>
+    <dimen name="aboutApp_sp">14dp</dimen>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#1972DD</color>
+    <color name="blue_500">#2D8CFF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#EAEBED</color>
+    <color name="gray_300">#757575</color>
+    <color name="tab_color_true">#FA632D</color>
+    <color name="transparent_db">#E0DBDBDB</color>
+    <color name="light_blue">#F8FDFF</color>
+    <color name="light_blue_2">#A6DAEF</color>
+    <color name="light_gray_small">#E0FBFBFB</color>
+    <!--Palette-->
+
+    <!--uCrop Activity-->
+
+    <!--Crop View-->
+
+    <!--more-->
+
+</resources>

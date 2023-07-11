@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.5.0-alpha05@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/6f9cc644738c0707670e440aad064d96/transformed/jetified-lifecycle-runtime-ktx-2.5.0-alpha05/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/6f9cc644738c0707670e440aad064d96/transformed/jetified-lifecycle-runtime-ktx-2.5.0-alpha05/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/transforms-3/6f9cc644738c0707670e440aad064d96/transformed/jetified-lifecycle-runtime-ktx-2.5.0-alpha05/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Android/sdk/platforms/android-28/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime-ktx/2.5.0-alpha05/6d338022f8fa82c24121d5d249fe5daeeb297742/lifecycle-runtime-ktx-2.5.0-alpha05-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
